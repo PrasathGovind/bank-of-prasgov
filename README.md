@@ -1,1 +1,1 @@
-# bank-of-prazy
+# bank-of-prasgov
